@@ -10,8 +10,8 @@ body {
       color: pink; }
   body .content {
     background: url("dog.jpg") no-repeat bottom left;
-    height: 1000px;
-    width: 1500px;
+    height: 2000px;
+    width: 2000px;
     margin: 0 0 0 auto;
     padding-left: 50px; }
     body .content h1 {
