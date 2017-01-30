@@ -12,7 +12,7 @@ body {
     background: url("dog.jpg") no-repeat bottom left;
     height: 2000px;
     width: 2000px;
-    margin: 100 0 0 auto;
+    margin: 0 0 0 auto;
     padding-left: 50px; }
     body .content h1 {
       font-weight: normal;
